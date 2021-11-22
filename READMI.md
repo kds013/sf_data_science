@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавлеие
-[1. Описание проекта]()
-[2. Какой кейс решаем?]()
-[3. Краткая информация о данных]()
-[4. Этапы работы над проектом ]()
-[5. Результат]()
-[6. Выводы]()
+[1. Описание проекта](https://github.com/kds013/sf_data_science/blob/main/project_0/Финальная.py)
+[2. Какой кейс решаем?](https://github.com/kds013/sf_data_science/blob/main/project_0/Финальная.py)
+[3. Краткая информация о данных](https://github.com/kds013/sf_data_science/blob/main/project_0/Финальная.py)
+[4. Этапы работы над проектом ](https://github.com/kds013/sf_data_science/blob/main/project_0/Финальная.py)
+[5. Результат](https://github.com/kds013/sf_data_science/blob/main/project_0/Финальная.py)
+[6. Выводы](https://github.com/kds013/sf_data_science/blob/main/project_0/Финальная.py)
 
 ### Описание пректа
 Угадать заданное компьютером число за минимальное число попыток.
